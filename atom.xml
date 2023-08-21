@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Nathan Bekenov</title>
+    <link type="application/atom+xml" rel="self" href="https://nbekenov.com//atom.xml"/>
+  
+  <link href="https://nbekenov.com//"/>
+  <id>https://nbekenov.com//</id>
+  <updated>2023-08-21T18:15:24Z</updated>
+  <author>
+    <name>Nathan Bekenov</name>
+    <email>n.bekenov01@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2023 Nathan Bekenov. All rights reserved.</rights>
+  
+  <entry>
+  <title type="text">Init commit &amp;darr; &amp;darr;</title>
+  <link rel="alternate" type="text/html" href="https://nbekenov.com//post1.html" />
+  <id>https://nbekenov.com//post1</id>
+  <published>2022-04-17T00:00:00Z</published>
+  <updated>2022-04-17T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>I recently came across a really interesting <a href="https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/?did=ba_card&amp;trk=ba_card">article</a> by @clare_liguori. I higly recommend reading it.</p>
+
+<p>Going throug over projects of the author I accidentally became avare of github pages and jekyll.
+And I decided to use it for my own humble website. So here is my initial commit =)</p>
+ ]]></content>
+</entry>
+
+
+
+</feed>
