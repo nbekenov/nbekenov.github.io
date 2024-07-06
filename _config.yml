@@ -21,11 +21,8 @@ email: n.bekenov01@gmail.com
 github: nbekenov # username
 twitter: nathanbekenov
 linkedin: nathanbekenov
-devto: nbekenov   #e.g: users/2735833/proton1h1
-medium: nursultanbekenov #e.g: NobelPeaceOslo
-#Comment out if you don't want disqus
-# disqus: username
-# google_analytics: UA-69391421-1
+devto: nbekenov
+
 
 
 # needed for travis-ci build
