@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resume
-description: Resume of Nathan Bekenov — Senior DevOps Engineer
+description: My resume
 ---
 
 ## Resume

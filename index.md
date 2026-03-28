@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Lead DevOps Engineer
+description: Nathan Bekenov - Lead DevOps Engineer
 ---
 
 ## Hi, I'm Nathan Bekenov
