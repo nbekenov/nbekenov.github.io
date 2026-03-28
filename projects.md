@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Projects
-description: Infrastructure and platform engineering projects by Nathan Bekenov — AWS, Terraform, Kubernetes, Datadog, Backstage
+description: My Projects
 ---
 
 ## Projects
-
-[← Home](/){: .btn .btn-secondary}
 
 Selected infrastructure and platform engineering work.
 

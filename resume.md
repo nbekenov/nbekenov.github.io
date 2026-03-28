@@ -6,7 +6,6 @@ description: My resume
 
 ## Resume
 
-[← Home](/){: .btn .btn-secondary}
 [Download PDF](./assets/N.Bekenov_resume.pdf){: .btn}
 [View on LinkedIn](https://linkedin.com/in/nathanbekenov){: .btn .btn-secondary}
 

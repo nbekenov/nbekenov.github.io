@@ -10,7 +10,6 @@ Lead DevOps Engineer with 10+ years of experience delivering scalable cloud solu
 infrastructure design, cloud migrations, CI/CD standardization, and
 developer platform work.
 
-[← Home](/){: .btn .btn-secondary}
 [Get in touch](./contact/){: .btn}
 
 ---

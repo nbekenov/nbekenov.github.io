@@ -6,8 +6,6 @@ description: My contact information
 
 ## Get in Touch
 
-[← Home](/){: .btn .btn-secondary}
-
 I'm currently **available for contract and consulting engagements** — cloud
 infrastructure, platform engineering, CI/CD design, and DevOps consulting.
 
