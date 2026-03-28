@@ -6,7 +6,8 @@ description: Resume of Nathan Bekenov — Senior DevOps Engineer
 
 ## Resume
 
-[Download PDF](./assets/resume.pdf){: .btn}
+[← Home](/){: .btn .btn-secondary}
+[Download PDF](./assets/N.Bekenov_resume.pdf){: .btn}
 [View on LinkedIn](https://linkedin.com/in/nathanbekenov){: .btn .btn-secondary}
 
 ---

@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Contact
+title: Nathan Bekenov
 description: Contact Nathan Bekenov — Senior DevOps Engineer available for contract and consulting engagements
 ---
 
 ## Get in Touch
+
+[← Home](/){: .btn .btn-secondary}
 
 I'm currently **available for contract and consulting engagements** — cloud
 infrastructure, platform engineering, CI/CD design, and DevOps consulting.
