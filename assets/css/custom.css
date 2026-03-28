@@ -76,13 +76,35 @@ tr:nth-child(even) td {
   margin: 2px;
 }
 
-/* ── CTA buttons ─────────────────────────────────────────────────────── */
-.btn-secondary {
-  background: transparent;
-  border: 1px solid rgba(255,255,255,0.7);
+/* ── CTA buttons (content area — override Cayman's header-only defaults) */
+.main-content .btn {
+  display: inline-block;
   color: #fff;
+  background-color: #159957;
+  border: 1px solid #159957;
+  border-radius: 0.3rem;
+  padding: 0.6rem 1rem;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: background-color 0.2s, border-color 0.2s;
 }
 
-.btn-secondary:hover {
-  background: rgba(255,255,255,0.1);
+.main-content .btn:hover {
+  background-color: #107a42;
+  border-color: #107a42;
+  text-decoration: none;
+}
+
+.main-content .btn + .btn {
+  margin-left: 0.75rem;
+}
+
+.main-content .btn-secondary {
+  background-color: transparent;
+  color: #159957;
+  border-color: #159957;
+}
+
+.main-content .btn-secondary:hover {
+  background-color: #eaf5ee;
 }
