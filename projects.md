@@ -6,6 +6,8 @@ description: Infrastructure and platform engineering projects by Nathan Bekenov 
 
 ## Projects
 
+[← Home](/){: .btn .btn-secondary}
+
 Selected infrastructure and platform engineering work.
 
 ---

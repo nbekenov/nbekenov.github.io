@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Nathan Bekenov
 description: Lead DevOps Engineer — 10+ years in AWS, Terraform, Kubernetes, CI/CD, and developer platforms.
 ---
 
@@ -10,7 +10,8 @@ Lead DevOps Engineer with 10+ years of experience delivering scalable cloud solu
 infrastructure design, cloud migrations, CI/CD standardization, and
 developer platform work.
 
-[Get in touch](./contact/)
+[← Home](/){: .btn .btn-secondary}
+[Get in touch](./contact/){: .btn}
 
 ---
 
