@@ -76,35 +76,35 @@ tr:nth-child(even) td {
   margin: 2px;
 }
 
-/* ── CTA buttons (content area — override Cayman's header-only defaults) */
-.main-content .btn {
+/* ── CTA buttons (content area — override Cayman's header-only white styles) */
+.main-content a.btn {
   display: inline-block;
-  color: #fff;
+  color: #fff !important;
   background-color: #159957;
   border: 1px solid #159957;
   border-radius: 0.3rem;
   padding: 0.6rem 1rem;
   font-size: 0.95rem;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: background-color 0.2s, border-color 0.2s;
+  margin-bottom: 1rem;
 }
 
-.main-content .btn:hover {
+.main-content a.btn:hover {
   background-color: #107a42;
   border-color: #107a42;
-  text-decoration: none;
 }
 
-.main-content .btn + .btn {
+.main-content a.btn + a.btn {
   margin-left: 0.75rem;
 }
 
-.main-content .btn-secondary {
+.main-content a.btn.btn-secondary {
   background-color: transparent;
-  color: #159957;
+  color: #159957 !important;
   border-color: #159957;
 }
 
-.main-content .btn-secondary:hover {
+.main-content a.btn.btn-secondary:hover {
   background-color: #eaf5ee;
 }
