@@ -18,6 +18,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 # Cayman header customization
 header_pages:
+  - index.md
   - about.md
   - projects.md
   - resume.md
