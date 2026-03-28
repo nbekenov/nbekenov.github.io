@@ -1,29 +1,42 @@
-# top level stuff you probably don't need to touch
-highlighter: rouge
+# ── Site Identity ──────────────────────────────────────────────────────────────
+title: "Nathan Bekenov | DevOps Engineer"
+description: >
+  Senior DevOps Engineer specializing in AWS, Terraform, Kubernetes,
+  CI/CD pipelines, and developer platform engineering.
+  Available for contract and consulting engagements.
+url: "https://nbekenov.com"
+baseurl: ""
+
+author:
+  name: Nathan Bekenov
+  email: n.bekenov01@gmail.com
+  github: nbekenov
+  linkedin: nathanbekenov
+
+# ── Cayman Theme ───────────────────────────────────────────────────────────────
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Cayman header customization
+header_pages:
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
+
+# ── Plugins ────────────────────────────────────────────────────────────────────
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# ── Build Settings ─────────────────────────────────────────────────────────────
 markdown: kramdown
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-plugins: [jekyll-paginate]
-port: 3000
-safe: true
+highlighter: rouge
+permalink: /:title/
 
-
-# edit here to achieve your personal greatness
-url: https://nbekenov.com/
-baseurl: '/'
-title: Nathan Bekenov
-author: Nathan Bekenov
-description: Personal blog and resume
-avatar: profile.png
-email: n.bekenov01@gmail.com
-github: nbekenov # username
-twitter: nathanbekenov
-linkedin: nathanbekenov
-devto: nbekenov
-
-
-
-# needed for travis-ci build
-exclude: [vendor]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "*.sh"
