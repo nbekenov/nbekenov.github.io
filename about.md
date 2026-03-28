@@ -1,14 +1,12 @@
 ---
 layout: default
 title: About
-description: About Nathan Bekenov — Senior DevOps Engineer specializing in AWS, Terraform, Kubernetes, and developer platforms
+description: Lead DevOps Engineer — 10+ years in AWS, Terraform, Kubernetes, CI/CD, and developer platforms.
 ---
 
-## About Me
+Lead DevOps Engineer with 10+ years of experience delivering scalable cloud solutions. Proven record of leading high-performing teams, driving DevOps transformation, and delivering resilient serverless and containerized architectures. Former Amazonian, skilled at building CI/CD pipelines, enabling observability, improving release velocity, and implementing disaster recovery and cloud security strategies. Experienced in close collaboration with developers to accelerate delivery of business-critical features.
 
-I'm a Senior DevOps Engineer with extensive experience designing and operating cloud infrastructure on AWS. I specialize in infrastructure-as-code, container orchestration, CI/CD pipeline design, and developer platform engineering. I love solving the problems that sit between engineering teams and fast, reliable delivery — reducing toil, eliminating bottlenecks, and building systems that scale without heroics.
-
-I'm currently **available for contract and consulting engagements** —
+**Available for contract and consulting engagements** —
 infrastructure design, cloud migrations, CI/CD standardization, and
 developer platform work.
 
