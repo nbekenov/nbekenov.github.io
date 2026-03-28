@@ -1,0 +1,56 @@
+- domain: Cloud & Infrastructure
+  tools:
+    - AWS (EC2, ECS, EKS, RDS, Redshift, Bedrock, AgentCore)
+    - Terraform
+    - CloudFormation
+    - AWS CDK
+    - Disaster recovery design
+    - Cost optimization
+    - Infrastructure-as-Code module authoring
+
+- domain: Containerization & Orchestration
+  tools:
+    - Kubernetes (EKS)
+    - Amazon ECS
+    - Cluster operations
+    - Autoscaling
+    - Service networking
+
+- domain: CI/CD & DevOps
+  tools:
+    - GitHub Actions (reusable workflows, org-wide standards)
+    - GitLab CI
+    - Bitbucket Pipelines
+    - Repository governance
+    - Pipeline design
+
+- domain: Observability
+  tools:
+    - Datadog (APM, RUM, Distributed Tracing, Log Management, Synthetic Testing)
+    - Prometheus
+    - Grafana
+    - Alerting design
+    - SLI/SLO frameworks
+
+- domain: Developer Platforms
+  tools:
+    - Backstage (Internal Developer Portal)
+    - Self-service infrastructure templates
+    - Golden-path tooling
+
+- domain: AI & Automation
+  tools:
+    - Claude Code
+    - Skills registry
+    - Custom hooks
+    - Autonomous agents
+    - AWS Bedrock Knowledge Bases
+    - AgentCore services
+
+- domain: Data Infrastructure
+  tools:
+    - MongoDB
+    - Amazon Redshift
+    - RDS
+    - S3 Data Lake
+    - Zero-ETL integrations
