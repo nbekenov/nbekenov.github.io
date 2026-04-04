@@ -10,7 +10,7 @@ Lead DevOps Engineer with 10+ years of experience and a former Amazon engineer. 
 
 **Available for contract and consulting engagements.**
 
-[Download PDF](./assets/N.Bekenov_resume.pdf){: .btn}
+[Download Resume PDF](./assets/N.Bekenov_resume.pdf){: .btn}
 [View Projects](./projects/){: .btn}
 [Get in Touch](./contact/){: .btn .btn-secondary}
 
