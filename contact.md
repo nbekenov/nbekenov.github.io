@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Contact
-description: My contact information
+description: ping
 ---
 
 ## Get in Touch
 
-I'm currently **available for contract and consulting engagements** — cloud
-infrastructure, platform engineering, CI/CD design, and DevOps consulting.
+**available for contract and consulting engagements**
 
 | | |
 |---|---|

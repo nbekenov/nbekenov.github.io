@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-description: My Projects
+description: git log
 ---
 
 ## Projects

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: Nathan Bekenov - About me
+description: whoami
 ---
 
 Lead DevOps Engineer with 10+ years of experience delivering scalable cloud solutions. Proven record of leading high-performing teams, driving DevOps transformation, and delivering resilient serverless and containerized architectures. Former Amazonian, skilled at building CI/CD pipelines, enabling observability, improving release velocity, and implementing disaster recovery and cloud security strategies. Experienced in close collaboration with developers to accelerate delivery of business-critical features.

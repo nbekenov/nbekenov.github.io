@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resume
-description: My resume
+description: My Resume
 ---
 
 ## Resume

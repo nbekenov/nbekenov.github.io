@@ -6,11 +6,11 @@ description: Nathan Bekenov - Lead DevOps Engineer
 
 ## Hi, I'm Nathan Bekenov
 
-I design cloud infrastructure, develop platforms, and deliver pipelines
-that help engineering teams ship faster and more reliably.
+Lead DevOps Engineer with 10+ years of experience and a former Amazon engineer. I build and lead the teams that deliver cloud architecture DevOps transformation, and the delivery foundations — CI/CD, IaC, observability, containerization, and disaster recovery, and AI adoption
 
 **Available for contract and consulting engagements.**
 
+[Download PDF](./assets/N.Bekenov_resume.pdf){: .btn}
 [View Projects](./projects/){: .btn}
 [Get in Touch](./contact/){: .btn .btn-secondary}
 
